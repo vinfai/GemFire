@@ -1,0 +1,12 @@
+# Site settings
+title: 与GemFire相关的一些文章
+email: theseusyang@gmail.com
+description: "本站点主要是发布GemFire相关的一些技术文章,由浅入深地逐层讲解 GemFire 技术,从初步入门到源码级."
+baseurl: ""
+url: "http://gemfire.org"
+twitter_username: gemfirer
+github_username:  gemfirer
+
+# Build settings
+markdown: kramdown
+permalink: pretty
